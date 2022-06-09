@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @3keerthi
 - 👀 I’m interested in electronic domain and software feild like web development
-- 🌱 I’m currently learning web development,python and jaba basics
-- 💞️ I’m looking to collaborate on JPMC
-- 📫 How to reach me 
+- 🌱 I’m currently learning web development,python and java basics
+- 💞️ I’m looking to collaborate on JPMC 
 
 <!---
 3keerthi/3keerthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
